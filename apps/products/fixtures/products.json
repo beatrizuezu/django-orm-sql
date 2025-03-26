@@ -1,0 +1,227 @@
+[
+  {
+    "model":"products.product",
+    "pk":1,
+    "fields":{
+      "name":"Product 1 of Category 1",
+      "amount":"2.00",
+      "category":1
+    }
+  },
+  {
+    "model":"products.product",
+    "pk":2,
+    "fields":{
+      "name":"Product 2 of Category 1",
+      "amount":"5.00",
+      "category":1
+    }
+  },
+  {
+    "model":"products.product",
+    "pk":3,
+    "fields":{
+      "name":"Product 3 of Category 1",
+      "amount":"20.00",
+      "category":1
+    }
+  },
+  {
+    "model":"products.product",
+    "pk":4,
+    "fields":{
+      "name":"Product 4 of Category 1",
+      "amount":"15.00",
+      "category":1
+    }
+  },
+  {
+    "model":"products.product",
+    "pk":5,
+    "fields":{
+      "name":"Product 5 of Category 1",
+      "amount":"10.00",
+      "category":1
+    }
+  },
+  {
+    "model":"products.product",
+    "pk":6,
+    "fields":{
+      "name":"Product 1 of Category 2",
+      "amount":"5.00",
+      "category":2
+    }
+  },
+  {
+    "model":"products.product",
+    "pk":7,
+    "fields":{
+      "name":"Product 2 of Category 2",
+      "amount":"7.00",
+      "category":2
+    }
+  },
+  {
+    "model":"products.product",
+    "pk":8,
+    "fields":{
+      "name":"Product 3 of Category 2",
+      "amount":"20.00",
+      "category":2
+    }
+  },
+  {
+    "model":"products.product",
+    "pk":9,
+    "fields":{
+      "name":"Product 4 of Category 2",
+      "amount":"15.00",
+      "category":2
+    }
+  },
+  {
+    "model":"products.product",
+    "pk":10,
+    "fields":{
+      "name":"Product 5 of Category 2",
+      "amount":"19.00",
+      "category":2
+    }
+  },
+  {
+    "model":"products.product",
+    "pk":11,
+    "fields":{
+      "name":"Product 1 of Category 3",
+      "amount":"12.00",
+      "category":3
+    }
+  },
+  {
+    "model":"products.product",
+    "pk":12,
+    "fields":{
+      "name":"Product 2 of Category 3",
+      "amount":"14.00",
+      "category":3
+    }
+  },
+  {
+    "model":"products.product",
+    "pk":13,
+    "fields":{
+      "name":"Product 3 of Category 3",
+      "amount":"100.00",
+      "category":3
+    }
+  },
+  {
+    "model":"products.product",
+    "pk":14,
+    "fields":{
+      "name":"Product 4 of Category 3",
+      "amount":"10.20",
+      "category":3
+    }
+  },
+  {
+    "model":"products.product",
+    "pk":15,
+    "fields":{
+      "name":"Product 5 of Category 3",
+      "amount":"11.40",
+      "category":3
+    }
+  },
+  {
+    "model":"products.product",
+    "pk":16,
+    "fields":{
+      "name":"Product 1 of Category 4",
+      "amount":"75.05",
+      "category":4
+    }
+  },
+  {
+    "model":"products.product",
+    "pk":17,
+    "fields":{
+      "name":"Product 2 of Category 4",
+      "amount":"44.20",
+      "category":4
+    }
+  },
+  {
+    "model":"products.product",
+    "pk":18,
+    "fields":{
+      "name":"Product 3 of Category 4",
+      "amount":"22.10",
+      "category":4
+    }
+  },
+  {
+    "model":"products.product",
+    "pk":19,
+    "fields":{
+      "name":"Product 4 of Category 4",
+      "amount":"44.20",
+      "category":4
+    }
+  },
+  {
+    "model":"products.product",
+    "pk":20,
+    "fields":{
+      "name":"Product 5 of Category 4",
+      "amount":"23.75",
+      "category":4
+    }
+  },
+  {
+    "model":"products.product",
+    "pk":21,
+    "fields":{
+      "name":"Product 1 of Category 5",
+      "amount":"5.50",
+      "category":5
+    }
+  },
+  {
+    "model":"products.product",
+    "pk":22,
+    "fields":{
+      "name":"Product 2 of Category 5",
+      "amount":"17.80",
+      "category":5
+    }
+  },
+  {
+    "model":"products.product",
+    "pk":23,
+    "fields":{
+      "name":"Product 3 of Category 5",
+      "amount":"17.45",
+      "category":5
+    }
+  },
+  {
+    "model":"products.product",
+    "pk":24,
+    "fields":{
+      "name":"Product 4 of Category 5",
+      "amount":"33.45",
+      "category":5
+    }
+  },
+  {
+    "model":"products.product",
+    "pk":25,
+    "fields":{
+      "name":"Product 5 of Category 5",
+      "amount":"13.00",
+      "category":5
+    }
+  }
+]
